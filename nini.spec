@@ -45,3 +45,10 @@ cp nini-1.1.pc %{buildroot}%{_datadir}/pkgconfig/
 %{_prefix}/lib/nini
 %{_datadir}/pkgconfig/nini-1.1.pc
 
+
+
+%changelog
+* Thu May 24 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.1.0-1
++ Revision: 800460
+- imported package nini
+
