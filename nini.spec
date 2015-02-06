@@ -1,7 +1,7 @@
 Summary: 	An uncommonly powerful .NET configuration library
 Name:		nini
 Version:	1.1.0
-Release:	1
+Release:	2
 Group: 		Development/Other
 License:	X11/MIT
 URL: 		http://nini.sourceforge.net/
