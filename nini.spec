@@ -4,7 +4,7 @@ Version:	1.1.0
 Release:	2
 Group: 		Development/Other
 License:	X11/MIT
-URL: 		http://nini.sourceforge.net/
+URL: 		https://nini.sourceforge.net/
 Source0: 	Nini-%{version}.zip
 BuildArch:	noarch
 
